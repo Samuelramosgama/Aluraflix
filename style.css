@@ -12,8 +12,8 @@ header {
 }
 
 .chamada {
-    baclground:   rgb(184, 156,213);
-    pedding-bottom: 80px;
+    background:   rgb(184, 156,213);
+    padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
@@ -32,7 +32,7 @@ p {
 }
 
 footer {
-    blackground-color:  #222
+    background-color:  #222
     color: rgb(42, 122, 228);
     bottom:0;
     position:fixed;
@@ -41,7 +41,7 @@ footer {
 }
 
 footer p{
-    text_align: center;
+    text-align: center;
     font-size:  14px;
     margin-top  3px;
     
